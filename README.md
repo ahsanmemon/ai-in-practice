@@ -4,6 +4,7 @@ I have dedicated this space to documenting some of the challenges that I have fa
 
 
 <h3>Checklist of TODO items when presented with an AI Project</h3>
+<ol>
 <li>Find words on the topic by Googling it over</li>
 <li>Find tools/techniques that I can use, so I dont have to reinvent the wheel all over again</li>
 <li>Find research (papers/patentS) that pertain to the particular problem</li>
@@ -12,3 +13,4 @@ I have dedicated this space to documenting some of the challenges that I have fa
 <li>Find code from the papers that already exists so I can reuse it for my experiments</li>
 <li>Replicate results of paper with available code or write code to achieve the same</li>
 <li>Code, Test, Repeat</li>
+</ol>
